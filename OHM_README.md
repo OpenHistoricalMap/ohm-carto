@@ -22,14 +22,14 @@ npm install carto
 3. set up renderd configuation for each
 
 [ohm_2008]
-XML=/home/tim/ohm-carto2008/ohm-carto/mapnik.xml
+XML=/home/tim/ohm-carto/ohm-carto/mapnik_2008.xml
 URI=/ohm_2008/
 DESCRIPTION=A custom ohm map showing those things in 2008
 HOST=openhistoricalmap.org
 
 
 [ohm_2009]
-XML=/home/tim/ohm-carto2008/ohm-carto/mapnik_2009.xml
+XML=/home/tim/ohm-carto/ohm-carto/mapnik_2009.xml
 URI=/ohm_2009/
 DESCRIPTION=A custom ohm map showing those things in 2009
 HOST=openhistoricalmap.org
