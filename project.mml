@@ -125,7 +125,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "",
-        "dbname": "ohm_gis"
+        "dbname": "ohm_gis_hack"
       },
       "id": "landcover",
       "class": "",
@@ -148,7 +148,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
-        "dbname": "ohm_gis"
+        "dbname": "ohm_gis_hack"
       },
       "id": "landcover-line",
       "class": "",
@@ -171,7 +171,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
-        "dbname": "ohm_gis"
+        "dbname": "ohm_gis_hack"
       },
       "id": "sports-grounds",
       "class": "",
@@ -194,7 +194,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
-        "dbname": "ohm_gis"
+        "dbname": "ohm_gis_hack"
       },
       "id": "water-lines-casing",
       "class": "",
@@ -217,7 +217,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
-        "dbname": "ohm_gis"
+        "dbname": "ohm_gis_hack"
       },
       "id": "water-lines-low-zoom",
       "class": "",
@@ -240,7 +240,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
-        "dbname": "ohm_gis"
+        "dbname": "ohm_gis_hack"
       },
       "id": "water-areas",
       "class": "",
@@ -263,7 +263,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
-        "dbname": "ohm_gis"
+        "dbname": "ohm_gis_hack"
       },
       "id": "water-areas-overlay",
       "class": "",
@@ -286,7 +286,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
-        "dbname": "ohm_gis"
+        "dbname": "ohm_gis_hack"
       },
       "id": "water-lines",
       "class": "",
@@ -309,7 +309,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
-        "dbname": "ohm_gis"
+        "dbname": "ohm_gis_hack"
       },
       "id": "dam",
       "class": "",
@@ -332,7 +332,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
-        "dbname": "ohm_gis"
+        "dbname": "ohm_gis_hack"
       },
       "id": "marinas-area",
       "class": "",
@@ -355,7 +355,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
-        "dbname": "ohm_gis"
+        "dbname": "ohm_gis_hack"
       },
       "id": "piers-area",
       "class": "",
@@ -378,7 +378,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
-        "dbname": "ohm_gis"
+        "dbname": "ohm_gis_hack"
       },
       "id": "piers",
       "class": "",
@@ -401,7 +401,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
-        "dbname": "ohm_gis"
+        "dbname": "ohm_gis_hack"
       },
       "id": "locks",
       "class": "",
@@ -424,7 +424,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
-        "dbname": "ohm_gis"
+        "dbname": "ohm_gis_hack"
       },
       "id": "tunnels",
       "class": "tunnels-fill tunnels-casing access directions",
@@ -450,7 +450,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
-        "dbname": "ohm_gis"
+        "dbname": "ohm_gis_hack"
       },
       "id": "citywalls",
       "class": "",
@@ -473,7 +473,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
-        "dbname": "ohm_gis"
+        "dbname": "ohm_gis_hack"
       },
       "id": "castlewalls",
       "class": "castlewalls",
@@ -496,7 +496,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
-        "dbname": "ohm_gis"
+        "dbname": "ohm_gis_hack"
       },
       "id": "castlewalls-poly",
       "class": "castlewalls",
@@ -519,7 +519,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
-        "dbname": "ohm_gis"
+        "dbname": "ohm_gis_hack"
       },
       "id": "landuse-overlay",
       "class": "",
@@ -542,7 +542,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
-        "dbname": "ohm_gis"
+        "dbname": "ohm_gis_hack"
       },
       "id": "line-barriers",
       "class": "barriers",
@@ -565,7 +565,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
-        "dbname": "ohm_gis"
+        "dbname": "ohm_gis_hack"
       },
       "id": "cliffs",
       "class": "",
@@ -588,7 +588,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
-        "dbname": "ohm_gis"
+        "dbname": "ohm_gis_hack"
       },
       "id": "area-barriers",
       "class": "barriers",
@@ -611,7 +611,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
-        "dbname": "ohm_gis"
+        "dbname": "ohm_gis_hack"
       },
       "id": "ferry-routes",
       "class": "",
@@ -634,7 +634,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
-        "dbname": "ohm_gis"
+        "dbname": "ohm_gis_hack"
       },
       "id": "turning-circle-casing",
       "class": "",
@@ -657,7 +657,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
-        "dbname": "ohm_gis"
+        "dbname": "ohm_gis_hack"
       },
       "id": "highway-area-casing",
       "class": "",
@@ -680,7 +680,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
-        "dbname": "ohm_gis"
+        "dbname": "ohm_gis_hack"
       },
       "id": "roads-casing",
       "class": "roads-casing",
@@ -702,7 +702,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
-        "dbname": "ohm_gis"
+        "dbname": "ohm_gis_hack"
       },
       "id": "highway-area-fill",
       "class": "",
@@ -725,7 +725,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
-        "dbname": "ohm_gis"
+        "dbname": "ohm_gis_hack"
       },
       "id": "buildings-lz",
       "class": "",
@@ -748,7 +748,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
-        "dbname": "ohm_gis"
+        "dbname": "ohm_gis_hack"
       },
       "id": "buildings",
       "class": "",
@@ -771,7 +771,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
-        "dbname": "ohm_gis"
+        "dbname": "ohm_gis_hack"
       },
       "id": "roads-fill",
       "class": "roads-fill access directions",
@@ -794,7 +794,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
-        "dbname": "ohm_gis"
+        "dbname": "ohm_gis_hack"
       },
       "id": "turning-circle-fill",
       "class": "",
@@ -817,7 +817,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
-        "dbname": "ohm_gis"
+        "dbname": "ohm_gis_hack"
       },
       "id": "aerialways",
       "class": "",
@@ -840,7 +840,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
-        "dbname": "ohm_gis"
+        "dbname": "ohm_gis_hack"
       },
       "id": "roads-low-zoom",
       "class": "",
@@ -863,7 +863,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
-        "dbname": "ohm_gis"
+        "dbname": "ohm_gis_hack"
       },
       "id": "waterway-bridges",
       "class": "",
@@ -886,7 +886,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
-        "dbname": "ohm_gis"
+        "dbname": "ohm_gis_hack"
       },
       "id": "bridges",
       "class": "bridges-fill bridges-casing access directions",
@@ -912,7 +912,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
-        "dbname": "ohm_gis"
+        "dbname": "ohm_gis_hack"
       },
       "id": "trams",
       "class": "",
@@ -935,7 +935,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
-        "dbname": "ohm_gis"
+        "dbname": "ohm_gis_hack"
       },
       "id": "guideways",
       "class": "",
@@ -958,7 +958,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
-        "dbname": "ohm_gis"
+        "dbname": "ohm_gis_hack"
       },
       "id": "admin-01234",
       "class": "",
@@ -981,7 +981,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
-        "dbname": "ohm_gis"
+        "dbname": "ohm_gis_hack"
       },
       "id": "admin-5678",
       "class": "",
@@ -1004,7 +1004,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
-        "dbname": "ohm_gis"
+        "dbname": "ohm_gis_hack"
       },
       "id": "admin-other",
       "class": "",
@@ -1027,7 +1027,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
-        "dbname": "ohm_gis"
+        "dbname": "ohm_gis_hack"
       },
       "id": "power-minorline",
       "class": "",
@@ -1050,7 +1050,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
-        "dbname": "ohm_gis"
+        "dbname": "ohm_gis_hack"
       },
       "id": "power-line",
       "class": "",
@@ -1095,7 +1095,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
-        "dbname": "ohm_gis"
+        "dbname": "ohm_gis_hack"
       },
       "id": "placenames-large",
       "class": "country state",
@@ -1118,7 +1118,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
-        "dbname": "ohm_gis"
+        "dbname": "ohm_gis_hack"
       },
       "id": "placenames-capital",
       "class": "",
@@ -1141,7 +1141,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
-        "dbname": "ohm_gis"
+        "dbname": "ohm_gis_hack"
       },
       "id": "placenames-medium",
       "class": "",
@@ -1164,7 +1164,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
-        "dbname": "ohm_gis"
+        "dbname": "ohm_gis_hack"
       },
       "id": "placenames-small",
       "class": "",
@@ -1187,7 +1187,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
-        "dbname": "ohm_gis"
+        "dbname": "ohm_gis_hack"
       },
       "id": "stations",
       "class": "stations",
@@ -1210,7 +1210,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
-        "dbname": "ohm_gis"
+        "dbname": "ohm_gis_hack"
       },
       "id": "stations-poly",
       "class": "stations",
@@ -1233,7 +1233,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
-        "dbname": "ohm_gis"
+        "dbname": "ohm_gis_hack"
       },
       "id": "glaciers-text",
       "class": "",
@@ -1256,7 +1256,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
-        "dbname": "ohm_gis"
+        "dbname": "ohm_gis_hack"
       },
       "id": "amenity-symbols",
       "class": "symbols",
@@ -1279,7 +1279,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
-        "dbname": "ohm_gis"
+        "dbname": "ohm_gis_hack"
       },
       "id": "amenity-symbols-poly",
       "class": "symbols",
@@ -1302,7 +1302,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
-        "dbname": "ohm_gis"
+        "dbname": "ohm_gis_hack"
       },
       "id": "amenity-points",
       "class": "points",
@@ -1325,7 +1325,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
-        "dbname": "ohm_gis"
+        "dbname": "ohm_gis_hack"
       },
       "id": "amenity-points-poly",
       "class": "points",
@@ -1348,7 +1348,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
-        "dbname": "ohm_gis"
+        "dbname": "ohm_gis_hack"
       },
       "id": "power-towers",
       "class": "",
@@ -1371,7 +1371,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
-        "dbname": "ohm_gis"
+        "dbname": "ohm_gis_hack"
       },
       "id": "power-poles",
       "class": "",
@@ -1394,7 +1394,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
-        "dbname": "ohm_gis"
+        "dbname": "ohm_gis_hack"
       },
       "id": "roads-text-ref-low-zoom",
       "class": "",
@@ -1417,7 +1417,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
-        "dbname": "ohm_gis"
+        "dbname": "ohm_gis_hack"
       },
       "id": "highway-junctions",
       "class": "",
@@ -1440,7 +1440,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
-        "dbname": "ohm_gis"
+        "dbname": "ohm_gis_hack"
       },
       "id": "roads-text-ref",
       "class": "",
@@ -1463,7 +1463,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
-        "dbname": "ohm_gis"
+        "dbname": "ohm_gis_hack"
       },
       "id": "roads-area-text-name",
       "class": "",
@@ -1486,7 +1486,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
-        "dbname": "ohm_gis"
+        "dbname": "ohm_gis_hack"
       },
       "id": "roads-text-name",
       "class": "",
@@ -1509,7 +1509,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
-        "dbname": "ohm_gis"
+        "dbname": "ohm_gis_hack"
       },
       "id": "paths-text-name",
       "class": "",
@@ -1532,7 +1532,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
-        "dbname": "ohm_gis"
+        "dbname": "ohm_gis_hack"
       },
       "id": "text",
       "class": "text",
@@ -1555,7 +1555,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
-        "dbname": "ohm_gis"
+        "dbname": "ohm_gis_hack"
       },
       "id": "text-poly",
       "class": "text",
@@ -1578,7 +1578,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
-        "dbname": "ohm_gis"
+        "dbname": "ohm_gis_hack"
       },
       "id": "building-text",
       "class": "",
@@ -1601,7 +1601,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
-        "dbname": "ohm_gis"
+        "dbname": "ohm_gis_hack"
       },
       "id": "interpolation",
       "class": "",
@@ -1624,7 +1624,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
-        "dbname": "ohm_gis"
+        "dbname": "ohm_gis_hack"
       },
       "id": "housenumbers",
       "class": "",
@@ -1647,7 +1647,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
-        "dbname": "ohm_gis"
+        "dbname": "ohm_gis_hack"
       },
       "id": "housenames",
       "class": "",
@@ -1670,7 +1670,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
-        "dbname": "ohm_gis"
+        "dbname": "ohm_gis_hack"
       },
       "id": "water-lines-text",
       "class": "",
@@ -1693,7 +1693,7 @@
         "geometry_field": "way",
         "extent_cache": "custom",
         "extent": "-20037508,-19929239,20037508,19929239",
-        "dbname": "ohm_gis"
+        "dbname": "ohm_gis_hack"
       },
       "id": "admin-text",
       "class": "",
@@ -1717,7 +1717,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
-        "dbname": "ohm_gis"
+        "dbname": "ohm_gis_hack"
       },
       "id": "national-park-boundaries",
       "class": "",
@@ -1740,7 +1740,7 @@
         "extent": "-20037508,-19929239,20037508,19929239",
         "key_field": "",
         "geometry_field": "way",
-        "dbname": "ohm_gis"
+        "dbname": "ohm_gis_hack"
       },
       "id": "theme-park",
       "class": "",
